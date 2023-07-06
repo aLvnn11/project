@@ -245,7 +245,7 @@ class MyHomePage extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.all(18.0),
                         child: Text(
-                          'Akun Sosial Media',
+                          'Help',
                           style: TextStyle(
                             fontSize: 18.0,
                             color: Colors.white,
@@ -273,7 +273,7 @@ class MyHomePage extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.all(18.0),
                         child: Text(
-                          'Akun Sosial Media',
+                          'Info Jadwal Update',
                           style: TextStyle(
                             fontSize: 18.0,
                             color: Colors.white,
